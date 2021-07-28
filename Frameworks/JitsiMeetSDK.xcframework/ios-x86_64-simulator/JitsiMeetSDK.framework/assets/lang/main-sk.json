@@ -113,7 +113,6 @@
         "maxEnabledResolution": "send max",
         "more": "Zobraziť viac",
         "packetloss": "Strata paketov:",
-        "participant_id": "ID účastníka:",
         "quality": {
             "good": "Dobré",
             "inactive": "Neaktívne",
@@ -317,13 +316,10 @@
     "e2ee": {
         "labelToolTip": "Zvuková a obrazová komunikácia je koncovo šifrovaná"
     },
-    "embedMeeting": {
-        "title": "Vložiť toto stretnutie"
-    },
     "feedback": {
         "average": "Priemerný",
         "bad": "Zlý",
-        "detailsLabel": "Povedzte nám viac",
+        "detailsLabel": "Povedzte nám viac.",
         "good": "Dobrý",
         "rateExperience": "Ohodnoťte dojem",
         "veryBad": "Veľmi zlý",
@@ -766,8 +762,7 @@
         "toggleCamera": "Zmeniť kameru",
         "videomute": "Vypnúť / Zapnúť kameru",
         "startvideoblur": "Rozmazať pozadie",
-        "stopvideoblur": "Ukončiť rozmazanie pozadia",
-        "selectBackground": "Vybrať pozadie"
+        "stopvideoblur": "Ukončiť rozmazanie pozadia"
     },
     "transcribing": {
         "ccButtonTooltip": "titulky vypnuť/zapnúť",
@@ -832,9 +827,7 @@
         "muted": "Vypnutý mikrofón",
         "remoteControl": "Vzdialené ovládanie",
         "show": "Ukázať v popredí",
-        "videomute": "Účastník vypol kameru",
-        "videoMuted": "Vypnutá kamera",
-        "domuteVideoOfOthers": "Vypnúť kamery ostatným"
+        "videomute": "Účastník vypol kameru"
     },
     "welcomepage": {
         "accessibilityLabel": {

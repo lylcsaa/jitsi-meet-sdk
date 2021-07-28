@@ -95,7 +95,7 @@
  *
  * The `data` dictionary contains `message`, `senderId` and  `isPrivate` keys.
  */
-- (void)chatMessageReceived:(NSDictionary *)data;
+- (void)chatMessaageReceived:(NSDictionary *)data;
 
 /**
  * Called when the chat dialog is displayed/hidden.
