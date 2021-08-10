@@ -730,8 +730,8 @@
             "videoblur": "切换至视频模糊"
         },
         "addPeople": "添加成员到您的通话中",
-        "audioOnlyOff": "禁用低带宽模式",
-        "audioOnlyOn": "开启低带宽模式",
+        "audioOnlyOff": "打开所有视频",
+        "audioOnlyOn": "关闭所有视频",
         "audioRoute": "选择音频设备",
         "authenticate": "认证",
         "callQuality": "管理通话质量",
