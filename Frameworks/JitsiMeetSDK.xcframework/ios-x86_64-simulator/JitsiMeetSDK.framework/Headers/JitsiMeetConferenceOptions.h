@@ -33,6 +33,11 @@
  * Conference subject.
  */
 @property (nonatomic, copy, nullable) NSString *subject;
+
+@property (nonatomic, copy, nullable) NSString *creatorId;
+
+@property (nonatomic, copy, nullable) NSString *creatorDisPlayName;
+
 /**
  * JWT token used for authentication.
  */
@@ -89,6 +94,9 @@
 
 @property (nonatomic, copy, nullable, readonly) NSString *room;
 @property (nonatomic, copy, nullable, readonly) NSString *subject;
+@property (nonatomic, copy, nullable, readonly) NSString *creatorId;
+@property (nonatomic, copy, nullable, readonly) NSString *creatorDisPlayName;
+
 @property (nonatomic, copy, nullable, readonly) NSString *token;
 
 @property (nonatomic, copy, nullable) NSDictionary *colorScheme;
