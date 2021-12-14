@@ -460,7 +460,7 @@
 		</data>
 		<key>assets/images/jitsiLogo_square.png</key>
 		<data>
-		vgvjbYxY6/TQmMXY1iq6cPaRrW8=
+		pq8OOLSZyVjmhx92TpoXocnOslg=
 		</data>
 		<key>assets/lang/languages-af.json</key>
 		<data>
@@ -738,6 +738,10 @@
 		<data>
 		a6ZD5yhqoMS0uyHEYKTw65DHMcc=
 		</data>
+		<key>assets/lang/main.json</key>
+		<data>
+		CKvrWXqoUxpBrO/pFH9yA5CXSOA=
+		</data>
 		<key>assets/node_modules/css-select/lib/procedure.json</key>
 		<data>
 		4NPpi1YiX218HlCgSBfSb0LKZL0=
@@ -828,7 +832,7 @@
 		</data>
 		<key>main.jsbundle</key>
 		<data>
-		jqoawCri8rgV2kSXYzJAgukDVbI=
+		s4AMjg6fsHXfol+3NoAZ2L4MgsI=
 		</data>
 		<key>outgoingRinging.wav</key>
 		<data>
@@ -1388,7 +1392,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nTavOPB2rK9oI6Tb6hACw/rWJMosn5NYybKifZsNUpc=
+			NT3wJZGitboCtCvvdKVmhoj0E61Bcf08T0ym3Hmb8t8=
 			</data>
 		</dict>
 		<key>assets/lang/languages-af.json</key>
@@ -1874,6 +1878,13 @@
 			Smgg328J2V8aD5Rai1ciQM3A+fhhaZpC3KMAeMA0UbA=
 			</data>
 		</dict>
+		<key>assets/lang/main.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/fxA7tcBro0RNhD+RjOwjI5OxoOYFH5OY2WguWe8+Yg=
+			</data>
+		</dict>
 		<key>assets/node_modules/css-select/lib/procedure.json</key>
 		<dict>
 			<key>hash2</key>
@@ -2032,7 +2043,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9tPOV3ult3/UVHWkwpWkcKCpaGAVH7kCRGQZZjSW4vI=
+			odCDQHYXeRAaFp6f83og2hxRnPxsYevvXMii/sQJuVA=
 			</data>
 		</dict>
 		<key>outgoingRinging.wav</key>
