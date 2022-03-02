@@ -237,7 +237,7 @@ SWIFT_CLASS("_TtC12JitsiMeetSDK14JMCallKitProxy")
 - (nonnull instancetype)init SWIFT_UNAVAILABLE;
 + (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
 /// Enables the proxy in between CallKit and the consumers of the SDK.
-/// Defaults to enabled, set to false when you don’t want to use CallKit.
+/// Defaults to disabled. Set to true when you want to use CallKit.
 SWIFT_CLASS_PROPERTY(@property (nonatomic, class) BOOL enabled;)
 + (BOOL)enabled SWIFT_WARN_UNUSED_RESULT;
 + (void)setEnabled:(BOOL)value;
